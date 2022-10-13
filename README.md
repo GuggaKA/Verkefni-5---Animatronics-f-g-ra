@@ -1,6 +1,6 @@
 # Verkefni-5 - Animatronics-figura
 
-[Vídeó](https://www.youtube.com/channel/UCalAswnoYvKqwOg9npZweKw)
+[Myndband af virkni](https://www.youtube.com/channel/UCalAswnoYvKqwOg9npZweKw)
 
 ---
 
