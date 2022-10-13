@@ -13,8 +13,8 @@ Markmiðið var að vera með beinagrind sem snýst í hringi, hristir hendurnar
 ## Búkur - Guðbjörg og Mohamed
 
 - Búkur samansettur
-- Snúning á búk (kominn kóði)
-- Hendur snúast á úlnliðunum (vantar kóða)
+- Snúning á búk
+- Hendur snúast á úlnliðunum
 
 ## Höfuðkúpa - Hreimur og Alexíus
 
