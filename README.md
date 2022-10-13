@@ -138,6 +138,6 @@ void speedControl() {
 
 ```
 
-Hreimur var með kóðann af því á sinni tölvu
+Hreimur var með þennan kóða á sinni tölvu
 
 ```
