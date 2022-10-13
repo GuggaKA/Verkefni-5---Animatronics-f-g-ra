@@ -61,6 +61,8 @@ Markmiðið var að vera með beinagrind sem snýst í hringi, hristir hendurnar
 
 #Kóði
 
+## Búkur
+
 ```
 
 // Motor A connections
@@ -129,5 +131,13 @@ void speedControl() {
   digitalWrite(in1, LOW);
   digitalWrite(in2, LOW);
 }
+
+```
+
+## Höfuð
+
+```
+
+Hreimur var með kóðann af því á sinni tölvu
 
 ```
