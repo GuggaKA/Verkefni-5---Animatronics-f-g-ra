@@ -59,7 +59,7 @@ Markmiðið var að vera með beinagrind sem snýst í hringi, hristir hendurnar
 
 ---
 
-#Kóði
+# Kóði
 
 ## Búkur
 
